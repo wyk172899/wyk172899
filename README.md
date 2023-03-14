@@ -2,7 +2,7 @@
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org)
 [![Java](https://img.shields.io/badge/Java-003B45?logo=java&logoColor=orange&style=for-the-badge)](https://namu.wiki/w/Java)
-![C](https://img.shields.io/badge/C-003B45?logo=C&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/Clang-003B45?logo=C&logoColor=white&style=for-the-badge)
 
 
 [<img width=37% src="https://github-readme-stats.vercel.app/api?username=wyk172899&theme=nord">](https://github.com/wyk172899)
