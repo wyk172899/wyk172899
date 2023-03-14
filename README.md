@@ -1,7 +1,7 @@
 ### Hello there!
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org)
-[![Java](https://img.shields.io/badge/Java-003B45?logo=kotlin&logoColor=orange&style=for-the-badge)](https://namu.wiki/w/Java)
+[![Java](https://img.shields.io/badge/Java-003B45?logo=java&logoColor=orange&style=for-the-badge)](https://namu.wiki/w/Java)
 
 
 [<img width=37% src="https://github-readme-stats.vercel.app/api?username=wyk172899&theme=nord">](https://github.com/wyk172899)
